@@ -1,2 +1,1 @@
-# NHOM10_TH1
-ABCXYZ
+
